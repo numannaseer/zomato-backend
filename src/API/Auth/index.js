@@ -80,7 +80,7 @@ Router.get(
   passport.authenticate("google", { failureRedirect: "/" }),
   (req, res) => {
     return res.redirect(
-      `https://unruffled-hopper-ba4778.netlify.app/google/${req.session.passport.user.token}`
+      `https://vibrant-hodgkin-f38696.netlify.app/google/${req.session.passport.user.token}`
     );
   }
 );
