@@ -44,7 +44,7 @@ zomato.use("/review", Review);
 zomato.use("/user", User);
 
 zomato.get("/",(req,res)=>{
-  res.send("Zomato backend has been successfull connected");
+  res.send('<p style="color: green; font-size: 100px">Zomato backend has been successfully connected!!!</p>');
 })
 
 const PORT = process.env.PORT || 4000;
