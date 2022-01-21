@@ -43,6 +43,10 @@ zomato.use("/order", Order);
 zomato.use("/review", Review);
 zomato.use("/user", User);
 
+zomato.get("/",(req,res)=>{
+  res.send("Zomato backend has been successfull connected");
+})
+
 const PORT = process.env.PORT || 4000;
 
 zomato.listen(PORT, () => {
