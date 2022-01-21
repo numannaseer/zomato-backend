@@ -18,6 +18,9 @@ const Router = express.Router();
  * Access       Public
  * Method       POST
  */
+
+
+
 Router.post("/signup", async (req, res) => {
   try {
     await ValidateSignup(req.body.credentials);
