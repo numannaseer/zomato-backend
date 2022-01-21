@@ -7,12 +7,10 @@ export default (passport) => {
   passport.use(
     new GoogleStrategy(
       {
-        // clientID: process.env.GOOGLE_CLIENT_ID,
-        clientID: "282268667611-96ufrnqio8jvd289c5g2p99o1gq27ct9.apps.googleusercontent.com",
-        // clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        clientSecret: "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",
+        clientID: process.env.GOOGLE_CLIENT_ID,
+        clientSecret: process.env.GOOGLE_CLIENT_SECRET,
         callbackURL: "https://zomato--backend.herokuapp.com/auth/google/callback"
-        // callbackURL: "http://localhost:4000/auth/google/callback"
+        //local callbackURL: "http://localhost:4000/auth/google/callback"
       },
       async (accessToken, refreshToken, profile, done) => {
         // create a new user object
