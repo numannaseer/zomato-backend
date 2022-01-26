@@ -8,7 +8,7 @@ const RestaurantSchema = new mongoose.Schema(
     mapLocation: { type: String, required: true },
     cuisine: [String],
     restaurantTimings: String,
-    contactNumber: Number,
+    phone: String,
     restaurantReviewValue:Number,
     deliveryReviewValue:Number,
     deliveryReviewCount:Number,
@@ -27,6 +27,9 @@ const RestaurantSchema = new mongoose.Schema(
     },
     reviews: [{ type: mongoose.Types.ObjectId, ref: "Reviews" }],
     photos: { type: mongoose.Types.ObjectId, ref: "Images" },
+    isOff:Boolean,
+    isPro:Boolean,
+    phone:String
   },
   {
     timestamps: true,
