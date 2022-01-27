@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "6166f8b0db8b2b72dd9de1d4"
+  },
+  "menus": [
+    {
+      "name": "Recommended",
+      "items": [
+        {
+          "$oid": "6166f660db8b2b72dd9de1d2"
+        }
+      ]
+    }
+  ],
+  "recommended": [
+    {
+      "$oid": "6166f660db8b2b72dd9de1d2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f00df8250ea636dfb485b6"
+  },
+  "menus": [
+    {
+      "name": "Recommended",
+      "items": [
+        {
+          "$oid": "61f00ae4de9d998c1bc24eb4"
+        },
+        {
+          "$oid": "61f00cb6de9d998c1bc24eb5"
+        }
+      ]
+    },
+    {
+      "name": "Popular",
+      "items": [
+        {
+          "$oid": "61f00f03de9d998c1bc24eb6"
+        }
+      ]
+    }
+  ],
+  "recommended": [
+    {
+      "$oid": "61f00cb6de9d998c1bc24eb5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f022729145ab1dade1c73e"
+  },
+  "menus": [
+    {
+      "name": "Recommended",
+      "items": [
+        "61f01673de9d998c1bc24eb7",
+        "61f0183dde9d998c1bc24eb8"
+      ]
+    },
+    {
+      "name": "Hot",
+      "items": [
+        "61f01a45de9d998c1bc24eb9",
+        "61f01b31de9d998c1bc24eba"
+      ]
+    }
+  ],
+  "recommended": [
+    {
+      "$oid": "6166f660db8b2b72dd9de1d5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61f02a4b9145ab1dade1c73f"
+  },
+  "menus": [
+    {
+      "name": "Recommended",
+      "items": [
+        {
+          "$oid": "61f028e0de9d998c1bc24ebd"
+        },
+        {
+          "$oid": "61f029ecde9d998c1bc24ebe"
+        }
+      ]
+    },
+    {
+      "name": "Hot",
+      "items": [
+        {
+          "$oid": "61f02812de9d998c1bc24ebc"
+        },
+        {
+          "$oid": "61f026fede9d998c1bc24ebb"
+        }
+      ]
+    }
+  ],
+  "recommended": []
+},{
+  "_id": {
+    "$oid": "61f039bb9145ab1dade1c740"
+  },
+  "menus": [
+    {
+      "name": "Pizza",
+      "items": [
+        {
+          "$oid": "61f03055de9d998c1bc24ebf"
+        },
+        {
+          "$oid": "61f03149de9d998c1bc24ec0"
+        },
+        {
+          "$oid": "61f0326bde9d998c1bc24ec1"
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "items": [
+        {
+          "$oid": "61f033a1de9d998c1bc24ec2"
+        },
+        {
+          "$oid": "61f034e3de9d998c1bc24ec3"
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "$oid": "61f035d0de9d998c1bc24ec4"
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "$oid": "61f03756de9d998c1bc24ec5"
+        },
+        {
+          "$oid": "61f03890de9d998c1bc24ec6"
+        }
+      ]
+    }
+  ],
+  "recommended": [
+    {
+      "$oid": "6166f660db8b2b72dd9de1d8"
+    }
+  ]
+}]

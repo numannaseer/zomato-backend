@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "616d6c53ac8b113e5bac0a51"
+  },
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "user": {
+    "$oid": "61c58588bf67e738055c8c6c"
+  },
+  "rating": 4,
+  "reviewText": "Food was awesome. Great Service😎",
+  "isRestaurantReview": false,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-10-18T12:45:07.918Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T12:45:07.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6179680ad09a016f8ba9c11e"
+  },
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "user": {
+    "$oid": "61d317b6d18c79ace148dbd9"
+  },
+  "rating": 4,
+  "reviewText": "Packaging was not good, But food was tasty👌",
+  "isRestaurantReview": false,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-10-27T14:54:02.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-27T14:54:02.357Z"
+  },
+  "__v": 0,
+  "isFoodReview": true
+},{
+  "_id": {
+    "$oid": "61815964e454974b44f437ce"
+  },
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "user": {
+    "$oid": "61e2d0a21f6604f2f183e4fe"
+  },
+  "rating": 3,
+  "reviewText": "Food was cold. The delivery took so long!",
+  "isRestaurantReview": false,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-11-02T15:29:40.933Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-02T15:29:40.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c08f2f05b473b7119d11fb"
+  },
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "user": {
+    "$oid": "61d30e3b77977fd5282fb830"
+  },
+  "rating": 4,
+  "reviewText": "Totally unhygienic place. Found a cockroach in my food",
+  "isRestaurantReview": true,
+  "isFoodReview": false,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-20T14:11:59.690Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T14:11:59.690Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c08f6c05b473b7119d120b"
+  },
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "user": {
+    "$oid": "61c58856d4966f6dff60a46b"
+  },
+  "rating": 5,
+  "reviewText": "Chicken was too crispy. But was tasty🥰",
+  "isRestaurantReview": false,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-20T14:13:00.752Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T14:13:00.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c08fdf05b473b7119d121c"
+  },
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "user": {
+    "$oid": "61c0b6441cf9e247a6345b66"
+  },
+  "rating": 5,
+  "reviewText": "KFC rocks!!",
+  "isRestaurantReview": true,
+  "isFoodReview": false,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-20T14:14:55.975Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T14:14:55.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c090b505b473b7119d122e"
+  },
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "user": {
+    "$oid": "61c460dba1f6894b6e86d60d"
+  },
+  "rating": 5,
+  "reviewText": "Delivered on time. Broasted Chicken was great😋",
+  "isRestaurantReview": true,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-20T14:18:29.963Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T14:18:29.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c580496fedbe5616d31236"
+  },
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "user": {
+    "$oid": "61c57233c9e920bfeac506f2"
+  },
+  "rating": 4,
+  "reviewText": "The dressing on donuts was great",
+  "isRestaurantReview": true,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-24T08:09:45.711Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T08:09:45.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c580aa6fedbe5616d3124a"
+  },
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "user": {
+    "$oid": "61c5868fd4966f6dff60a3b6"
+  },
+  "rating": 5,
+  "reviewText": "Totally poor service. Recieved different donut collections, not those that I had ordered😠",
+  "isRestaurantReview": false,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2021-12-24T08:11:22.474Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T08:11:22.474Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d29f2e19fefd7974556dee"
+  },
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "user": {
+    "$oid": "61c734f115782f465b442720"
+  },
+  "rating": 4,
+  "reviewText": "There was very little chocolate on the dounts🙁",
+  "isRestaurantReview": false,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2022-01-03T07:01:02.209Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-03T07:01:02.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2a16c19fefd7974556df3"
+  },
+  "restaurant": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "user": {
+    "$oid": "61ca0b73a122ea211b18b43d"
+  },
+  "rating": 5,
+  "reviewText": "I had ordered Biriyani here. Very tasty but they gave only 3 mutton pieces per person",
+  "isRestaurantReview": true,
+  "isFoodReview": false,
+  "photos": [],
+  "createdAt": {
+    "$date": "2022-01-03T07:10:36.424Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-03T07:10:36.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e314fe8c44125f4808d5e0"
+  },
+  "restaurant": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "user": {
+    "$oid": "61c0b75375b4c17030c06048"
+  },
+  "rating": 4,
+  "reviewText": "The biriyani was too cold when delivered. It was too spicy",
+  "isRestaurantReview": true,
+  "isFoodReview": true,
+  "photos": [],
+  "createdAt": {
+    "$date": "2022-01-15T18:39:58.820Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-15T18:39:58.820Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f19faed8944e71ccbf9f00"
+  },
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "user": {
+    "$oid": "61e2d0a21f6604f2f183e4fe"
+  },
+  "rating": 3,
+  "reviewText": "Donuts were very small, but were tasty",
+  "isRestaurantReview": true,
+  "isFoodReview": false,
+  "photos": [],
+  "createdAt": {
+    "$date": "2022-01-26T19:23:26.430Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-26T19:23:26.430Z"
+  },
+  "__v": 0
+}]

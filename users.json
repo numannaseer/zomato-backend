@@ -1,0 +1,326 @@
+[{
+  "_id": {
+    "$oid": "61c0b6441cf9e247a6345b66"
+  },
+  "fullName": "Rahul Kumar",
+  "email": "rahul@yahoo.com",
+  "password": "$2a$08$uOSRxgN4/OG/6TrAD7bUheWCBeYfYAplklibSOs5dHrVqzZL82MBa",
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Rahul Kumar s/o Shitij Kumar"
+    }
+  ],
+  "phoneNumber": [
+    "1234567891"
+  ],
+  "createdAt": {
+    "$date": "2021-12-20T16:58:44.243Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T16:58:44.243Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c0b75375b4c17030c06048"
+  },
+  "fullName": "Joseph Dsouza",
+  "email": "joseph@yahoo.com",
+  "password": "$2a$08$Oo/QKiVhVd70KahBTXr39Oi9eaCpHhk82pplZU1H49CNYDxk67mLm",
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Joseph s/o Catherine Dsouza"
+    }
+  ],
+  "phoneNumber": [
+    "9873424532"
+  ],
+  "createdAt": {
+    "$date": "2021-12-20T17:03:15.278Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-20T17:03:15.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c460dba1f6894b6e86d60d"
+  },
+  "fullName": "Jyoti Arora",
+  "email": "jyo@gmail.com",
+  "password": "$2a$08$2pI5hxyIvlsP5SPBwvuPAuYbTdQ8VZJ.ZkVK3UMlxmaUH0APwTlIa",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Ms. Jyoti w/o Rajesh P"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-23T11:43:23.679Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T11:43:23.679Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c57233c9e920bfeac506f2"
+  },
+  "fullName": "Ramesh Aravind",
+  "email": "ramesh@email.com",
+  "password": "$2a$08$tRPSzK2cJnxxrdOdVYKqWOg1YXel0aSxtzCeSeZrX6FzKZg82XC1y",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Ramesh s/o Kantibai"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-24T07:09:40.201Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T07:09:40.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c58588bf67e738055c8c6c"
+  },
+  "fullName": "Pratiksha Raut",
+  "email": "user@gmail.com",
+  "password": "$2a$08$ZdCqEdMyRZN/yWnM.ysho.JxoQYB.sgP7Foi4OzjRB8HLyYZBEON.",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Ms. Pratiksha"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-24T08:32:08.203Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T08:32:08.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c5868fd4966f6dff60a3b6"
+  },
+  "fullName": "Yash Raj",
+  "email": "rajyash2101@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Yash"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-24T08:36:31.730Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T08:36:31.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c58856d4966f6dff60a46b"
+  },
+  "fullName": "Sanjay Kapoor",
+  "email": "Sanjay@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Sanjay"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-24T08:44:06.750Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T08:44:06.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c58f02a9d019bd023cd926"
+  },
+  "fullName": "Kajol Raut",
+  "email": "k@gmail.com",
+  "password": "$2a$08$YZf4z5WNc5LNOfoIXu3PPO7Lg3tfB/QBmtimmCJywjqEAJcI.X.3K",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Ms. Kajol"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-24T09:12:34.158Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-24T09:12:34.158Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c734f115782f465b442720"
+  },
+  "fullName": "Shabana Nadeem",
+  "email": "shab@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Ms. Shabana"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-25T15:12:49.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-25T15:12:49.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ca0b73a122ea211b18b43d"
+  },
+  "fullName": "Shubash Modi",
+  "email": "subbu13517@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Subhash"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-27T18:52:35.688Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-27T18:52:35.688Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d30e3b77977fd5282fb830"
+  },
+  "fullName": "Das Gupta",
+  "email": "boyDas@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Mr. Das"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-03T14:54:51.525Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-03T14:54:51.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d317b6d18c79ace148dbd9"
+  },
+  "fullName": "Neha Patil",
+  "email": "np69337@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "17/41, opposite Brahma wood works, Shanti Nagar, Bangalore",
+      "for": "Ms. Neha"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-03T15:35:19.054Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-03T15:35:19.054Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e2d0a21f6604f2f183e4fe"
+  },
+  "fullName": "Mohamed Numan Naseer",
+  "email": "abcandmum@gmail.com",
+  "phoneNumber": [],
+  "address": [
+    {
+      "details": "Home",
+      "for": "Door #125, 2nd floor, 6th Main St, JP Nagar, Bangalore"
+    },
+    {
+      "details": "Work",
+      "for": "Building #35, 13th floor, 3rd Main St, Electronic City, Bangalore"
+    },
+    {
+      "details": "Other",
+      "for": "Door #243, 6th floor, 12th Main St, Shivajinagar, Bangalore"
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-15T13:48:18.495Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-15T13:48:18.495Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61edae8ed052980db3ca9531"
+  },
+  "fullName": "Mohamed Numan Naseer",
+  "email": "numannaseer21@gmail.com",
+  "phoneNumber": [],
+  "address": [],
+  "createdAt": {
+    "$date": "2022-01-23T19:37:50.811Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-23T19:37:50.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f19299d8944e71ccbf9d11"
+  },
+  "fullName": "tester",
+  "email": "testing@gmail.com",
+  "password": "$2a$08$nPdf1k7vXnFBAQYNuJC9EeYxDrRvVtRJcBV357f6rZsaWq8BNY6rG",
+  "phoneNumber": [],
+  "address": [],
+  "createdAt": {
+    "$date": "2022-01-26T18:27:37.762Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-26T18:27:37.762Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f1a3cfd8944e71ccbfa35b"
+  },
+  "fullName": "deployer",
+  "email": "deploying@gmail.com",
+  "password": "$2a$08$IMLr4UTZ48VjUnOJ3RmxsOTet3HoAcKiviLUzwlBydUvaYUmVhp.2",
+  "phoneNumber": [],
+  "address": [],
+  "createdAt": {
+    "$date": "2022-01-26T19:41:03.693Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-26T19:41:03.693Z"
+  },
+  "__v": 0
+}]

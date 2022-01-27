@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "name": "Domino's Pizza",
+  "city": "Bangalore",
+  "address": "Ground Floor No. 7, Outer Ring Rd, opp. Shekar Nethralaya, JP Nagar 4th Phase, Bengaluru, Karnataka 560078",
+  "mapLocation": "12.908752772243995, 77.59521973084676",
+  "cuisine": [
+    "Pizza",
+    "Fast Food",
+    "Desserts",
+    "Beverages"
+  ],
+  "restaurantTimings": "9am - 11pm",
+  "website": "dominos.com",
+  "popularDishes": [
+    "Farmhouse",
+    "Veg Extravaganza",
+    "Garlic Breadsticks"
+  ],
+  "averageCost": 400,
+  "menu": {
+    "$oid": "61f039bb9145ab1dade1c740"
+  },
+  "reviews": [
+    {
+      "$oid": "616d6c53ac8b113e5bac0a51"
+    },
+    {
+      "$oid": "6179680ad09a016f8ba9c11e"
+    },
+    {
+      "$oid": "61815964e454974b44f437ce"
+    },
+    {
+      "$oid": "61c08f2f05b473b7119d11fb"
+    }
+  ],
+  "photos": {
+    "$oid": "61ed497be79a7ceba5e3c3f3"
+  },
+  "restaurantReviewValue": "4.8",
+  "menuImages": {
+    "$oid": "61eff3e47a0493b66c21c30d"
+  },
+  "deliveryReviewValue": "4.5",
+  "amenities": [
+    "Parking",
+    "AC",
+    "Rest Room",
+    "Free WIFI"
+  ],
+  "deliveryReviewCount": 457,
+  "restaurantReviewCount": 231,
+  "isOff": true,
+  "isPro": true,
+  "phone": "1800 208 1234"
+},{
+  "_id": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "name": "KFC",
+  "city": "Bangalore",
+  "address": "Ground Floor, 24th Main Rd, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+  "mapLocation": "12.91259460938513, 77.58626593784369",
+  "cuisine": [
+    "Broasted Chicken",
+    "Burgers",
+    "Sandwiches",
+    "Beverages",
+    "Desserts"
+  ],
+  "restaurantTimings": "08am - 08pm",
+  "website": "https://restaurants.kfc.co.in/kfc-jp-nagar-restaurants-jp-nagar-bengaluru-118607/Home?utm_source=locator&utm_medium=googleplaces",
+  "popularDishes": [
+    "Biryani"
+  ],
+  "averageCost": 600,
+  "menuImages": {
+    "$oid": "61eff7187a0493b66c21c30e"
+  },
+  "menu": {
+    "$oid": "61f022729145ab1dade1c73e"
+  },
+  "reviews": [
+    {
+      "$oid": "61c08f6c05b473b7119d120b"
+    },
+    {
+      "$oid": "618939a2fc13ae3ceb00039c"
+    },
+    {
+      "$oid": "618939a2fc13ae3ceb00039c"
+    }
+  ],
+  "photos": {
+    "$oid": "61ed5518e79a7ceba5e3c3f7"
+  },
+  "restaurantReviewValue": "4.9",
+  "deliveryReviewValue": "4.1",
+  "amenities": [
+    "Free Wi-Fi",
+    "AC"
+  ],
+  "deliveryReviewCount": "380",
+  "restaurantReviewCount": "129",
+  "isOff": false,
+  "isPro": false,
+  "phone": "+918042754444"
+},{
+  "_id": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "name": "Dunkin Donuts",
+  "city": "Bangalore",
+  "address": "Royal Arcade, 158, Gr Flr, Mota, Brigade Rd, Bengaluru, Karnataka 560001",
+  "mapLocation": "12.972321473912125, 77.60678051080997",
+  "cuisine": [
+    "Donuts",
+    "Coffee",
+    "Milkshakes",
+    "Burgers"
+  ],
+  "restaurantTimings": "09am-11:30pm",
+  "website": "https://dunkinindia.com/",
+  "popularDishes": [
+    "Biryani"
+  ],
+  "averageCost": 300,
+  "menuImages": {
+    "$oid": "61eff8557a0493b66c21c30f"
+  },
+  "menu": {
+    "$oid": "61f02a4b9145ab1dade1c73f"
+  },
+  "reviews": [
+    {
+      "$oid": "61c580496fedbe5616d31236"
+    },
+    {
+      "$oid": "61c580aa6fedbe5616d3124a"
+    },
+    {
+      "$oid": "61d29f2e19fefd7974556dee"
+    }
+  ],
+  "photos": {
+    "$oid": "61ed6266e79a7ceba5e3c3f8"
+  },
+  "restaurantReviewValue": "4.5",
+  "deliveryReviewValue": "3.8",
+  "amenities": [
+    "Free Wi-Fi",
+    "AC"
+  ],
+  "deliveryReviewCount": "219",
+  "restaurantReviewCount": "50",
+  "isPro": false,
+  "isOff": true,
+  "phone": ""
+},{
+  "_id": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "name": "Biriyani Trip",
+  "city": "Bangalore",
+  "address": "15, Industrial Area, Stage 2, BTM Layout, Bengaluru, Karnataka 560076",
+  "mapLocation": "12.91105856802093, 77.60390590715109",
+  "cuisine": [
+    "Biriyani",
+    "North Indian",
+    "South Indian",
+    "Desserts"
+  ],
+  "restaurantTimings": "11am-4am",
+  "website": "biriyanitrip.com",
+  "popularDishes": [
+    "Farmhouse",
+    "Veg Extravaganza",
+    "Garlic Breadsticks"
+  ],
+  "averageCost": 300,
+  "menuImages": {
+    "$oid": "61c235ebbeec652ad4fddb83"
+  },
+  "menu": {
+    "$oid": "61f00df8250ea636dfb485b6"
+  },
+  "reviews": [
+    {
+      "$oid": "61d2a16c19fefd7974556df3"
+    },
+    {
+      "$oid": "61e314fe8c44125f4808d5e0"
+    }
+  ],
+  "photos": {
+    "$oid": "61ed8c52e79a7ceba5e3c3fa"
+  },
+  "restaurantReviewValue": "3.7",
+  "deliveryReviewValue": "3.6",
+  "amenities": [
+    "Parking",
+    "AC",
+    "Rest Room",
+    "Free WIFI"
+  ],
+  "deliveryReviewCount": "83",
+  "restaurantReviewCount": "39",
+  "isOff": false,
+  "isPro": false,
+  "phone": ""
+}]

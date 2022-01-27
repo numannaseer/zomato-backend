@@ -1,0 +1,395 @@
+[{
+  "_id": {
+    "$oid": "61f00ae4de9d998c1bc24eb4"
+  },
+  "name": "Bucket Biriyani",
+  "description": "Bucket Biriyani with Chicken Kabab",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "spciy",
+    "chicken"
+  ],
+  "photos": {
+    "$oid": "61ed8c52e79a7ceba5e3c3fa"
+  },
+  "price": "350",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f00cb6de9d998c1bc24eb5"
+  },
+  "name": "Alfaham Chicken",
+  "description": "Arabian well grilled chicken served with salad, Kuboos and mayonnaise.",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "grilled",
+    "chicken"
+  ],
+  "photos": {
+    "$oid": "61f013207a0493b66c21c310"
+  },
+  "price": "300",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "61f00f03de9d998c1bc24eb6"
+  },
+  "name": "Pepper Chicken Dry Boneless",
+  "description": "Goodness of pepper in chicken starter",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "chicken",
+    "spicy"
+  ],
+  "photos": {
+    "$oid": "61f014097a0493b66c21c311"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61c21d9f0d5213ee45234c09"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f01673de9d998c1bc24eb7"
+  },
+  "name": "KFC Fried Chicken",
+  "description": "6 pc Hot & Crispy Chicken",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "spicy",
+    "chicken",
+    "fried"
+  ],
+  "photos": {
+    "$oid": "61f016377a0493b66c21c313"
+  },
+  "price": "320",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "61f0183dde9d998c1bc24eb8"
+  },
+  "name": "Mighty Zinger",
+  "description": "A Burger you will cherish forever",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "spicy",
+    "fastfood",
+    "chicken",
+    "fried"
+  ],
+  "photos": {
+    "$oid": "61f018047a0493b66c21c314"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f01a45de9d998c1bc24eb9"
+  },
+  "name": "4pc hot chicken wings",
+  "description": "Wings with sauce and mayo, simply delicious and irressistible",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "fried",
+    "spicy",
+    "chicken"
+  ],
+  "photos": {
+    "$oid": "61f019f97a0493b66c21c315"
+  },
+  "price": "240",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "rating": 5
+},{
+  "_id": {
+    "$oid": "61f01b31de9d998c1bc24eba"
+  },
+  "name": "KFC Big 8",
+  "description": "Save 30% on this variety bucket of 4pc Hot & Crispy chicken & 4pc Smoky Red chicken [serves 2- 3 ].",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "spicy",
+    "chicken",
+    "fastfood"
+  ],
+  "photos": {
+    "$oid": "61f01b0d7a0493b66c21c316"
+  },
+  "price": "619",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "618939a2fc13ae3ceb00039c"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f026fede9d998c1bc24ebb"
+  },
+  "name": "KitKat Crunchy Donut",
+  "description": "Take a Break with a Dunkin Donut ",
+  "isVeg": true,
+  "isContainsEgg": true,
+  "category": [
+    "sweet",
+    "dessert"
+  ],
+  "photos": {
+    "$oid": "61f0260a7a0493b66c21c318"
+  },
+  "price": "70",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "rating": 4.5
+},{
+  "_id": {
+    "$oid": "61f02812de9d998c1bc24ebc"
+  },
+  "name": "Multi Color Donut",
+  "description": "Donut glazed with multi colors",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "sweet"
+  ],
+  "photos": {
+    "$oid": "61f025a17a0493b66c21c317"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "rating": 4.2
+},{
+  "_id": {
+    "$oid": "61f028e0de9d998c1bc24ebd"
+  },
+  "name": "Double Milk Filled Donut",
+  "description": "Savour the king of dounuts",
+  "isVeg": false,
+  "isContainsEgg": true,
+  "category": [
+    "sweet"
+  ],
+  "photos": {
+    "$oid": "61f0267b7a0493b66c21c319"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "rating": 4.7
+},{
+  "_id": {
+    "$oid": "61f029ecde9d998c1bc24ebe"
+  },
+  "name": "Dark Chocolate Rainbow Donut",
+  "description": "Fall in love with yourself.",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "sweet"
+  ],
+  "photos": {
+    "$oid": "61f026ce7a0493b66c21c31a"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61893bf1cecd4c818954dc36"
+  },
+  "rating": 4.5
+},{
+  "_id": {
+    "$oid": "61f03055de9d998c1bc24ebf"
+  },
+  "name": "Peppy Paneer Pizza",
+  "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "fastfood"
+  ],
+  "photos": {
+    "$oid": "61f030167a0493b66c21c31b"
+  },
+  "price": "419",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4.8
+},{
+  "_id": {
+    "$oid": "61f03149de9d998c1bc24ec0"
+  },
+  "name": "Chicken Fiesta",
+  "description": "Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta.",
+  "isVeg": false,
+  "isContainsEgg": true,
+  "category": [
+    "fastfood"
+  ],
+  "photos": {
+    "$oid": "61f031267a0493b66c21c31c"
+  },
+  "price": "200",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4.8
+},{
+  "_id": {
+    "$oid": "61f0326bde9d998c1bc24ec1"
+  },
+  "name": "Veg Extravaganza Pizza",
+  "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese.",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "fastfood"
+  ],
+  "photos": {
+    "$oid": "61f032277a0493b66c21c31d"
+  },
+  "price": "330",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4.9
+},{
+  "_id": {
+    "$oid": "61f033a1de9d998c1bc24ec2"
+  },
+  "name": "Paneer Tikka Stuffed Garlic Bread",
+  "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka.",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "fastfood"
+  ],
+  "photos": {
+    "$oid": "61f0337c7a0493b66c21c31f"
+  },
+  "price": "345",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f034e3de9d998c1bc24ec3"
+  },
+  "name": "Cheesy jalapeno dip",
+  "description": "A spicy, tangy flavored cheese dip is a an absolute delight with your favourite Garlic Breadsticks & Stuffed Garlic Bread.",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "fastfood",
+    "sidedish"
+  ],
+  "photos": {
+    "$oid": "61f034be7a0493b66c21c320"
+  },
+  "price": "29",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4.4
+},{
+  "_id": {
+    "$oid": "61f035d0de9d998c1bc24ec4"
+  },
+  "name": "Red Velvet Lava Cake",
+  "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!.",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "sweet"
+  ],
+  "photos": {
+    "$oid": "61f035b07a0493b66c21c321"
+  },
+  "price": "139",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4.9
+},{
+  "_id": {
+    "$oid": "61f03756de9d998c1bc24ec5"
+  },
+  "name": "Pepsi 600ml",
+  "description": "Har ghoot mein swag.",
+  "isVeg": false,
+  "isContainsEgg": false,
+  "category": [
+    "beverages"
+  ],
+  "photos": {
+    "$oid": "61f037277a0493b66c21c322"
+  },
+  "price": "70",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4
+},{
+  "_id": {
+    "$oid": "61f03890de9d998c1bc24ec6"
+  },
+  "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+  "description": "Alphonsos only from Ratnagiri with the Goodness of Fiber.",
+  "isVeg": true,
+  "isContainsEgg": false,
+  "category": [
+    "beverages"
+  ],
+  "photos": {
+    "$oid": "61f038027a0493b66c21c323"
+  },
+  "price": "70",
+  "addOns": [],
+  "restaurant": {
+    "$oid": "61619f4fa8bb5a753a157e5c"
+  },
+  "rating": 4
+}]
